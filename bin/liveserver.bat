@@ -1,0 +1,1 @@
+mintty.exe -e /usr/local/nginx/sbin/nginx

@@ -1,0 +1,14 @@
+2015/10/10 23:54:57 [emerg] 2228#0: the maximum number of files supported by select() is 64
+2015/10/10 23:56:18 [error] 3860#0: *1 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2015/10/10 23:58:49 [notice] 2548#0: signal process started
+2015/10/10 23:59:02 [alert] 2700#0: recvmsg() returned invalid ancillary data level 10 or type 10
+2015/10/10 23:59:18 [alert] 612#0: recvmsg() failed (104: Connection reset by peer)
+2015/10/11 00:07:59 [error] 1244#0: *2 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2015/10/11 00:08:26 [alert] 1244#0: recvmsg() returned too small ancillary data
+2015/10/11 00:08:30 [alert] 4092#0: recvmsg() returned too small ancillary data
+2015/10/11 01:12:05 [emerg] 952#0: open() "conf/mime.types" failed (2: No such file or directory) in /nginx.conf:23
+2015/10/11 01:12:06 [emerg] 3748#0: open() "conf/mime.types" failed (2: No such file or directory) in /nginx.conf:23
+2015/10/11 01:12:07 [emerg] 3644#0: open() "conf/mime.types" failed (2: No such file or directory) in /nginx.conf:23
+2015/10/11 01:12:08 [emerg] 1364#0: open() "conf/mime.types" failed (2: No such file or directory) in /nginx.conf:23
+2015/10/11 01:12:08 [emerg] 1048#0: open() "conf/mime.types" failed (2: No such file or directory) in /nginx.conf:23
+2015/10/11 01:12:59 [emerg] 2912#0: open() "/nginx.conf" failed (2: No such file or directory)
