@@ -1,6 +1,6 @@
 feature:
 
-    double click to run，don't need config，support rtmp and hls live
+    rtmp/hls live server for windows, double click to run，don't need config.
 
 
 run and quit:
